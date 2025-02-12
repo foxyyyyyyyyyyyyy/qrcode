@@ -40,4 +40,4 @@ You can generate QR codes directly by accessing the `/code` route with query par
    /code?content=Test&size=1000x1000&fg=%23000000&bg=%23ffffff&margin=4&ecl=H
    ```
 
-The generated QR code will be displayed directly as an image, making it perfect for embedding in other websites or applications.
+The generated QR code will be displayed directly as an image so you can directly implement it in your application.
